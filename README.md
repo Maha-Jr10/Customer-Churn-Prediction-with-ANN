@@ -12,6 +12,7 @@ A complete end-to-end machine learning project to predict **customer churn** usi
 | `customer_churn_ann.h5`               | 🤖 Trained Artificial Neural Network (ANN) model saved in HDF5 format                           |
 | `WA_Fn-UseC_-Telco-Customer-Churn.xlsx` | 📊 Raw Telco Customer Churn dataset used for exploratory data analysis and model development   |
 | `CCP with ANN.ipynb`                  | 📓 Jupyter notebook with complete EDA, feature engineering, model training, and evaluation      |
+| `requirements.txt`                    | 📦 Required Python libraries and versions for setting up the environment                        |
 | `data_dictionary.md` *(optional)*     | 🧾 Explanation of each column in the Telco dataset for better understanding                     |
 | `README.md`                           | 🧾 This current file                                                                            |
 
