@@ -6,12 +6,14 @@ A complete end-to-end machine learning project to predict **customer churn** usi
 
 ## 📁 Project Files
 
-| File Name                             | Description                                                                 |
-|--------------------------------------|-----------------------------------------------------------------------------|
-| `myapp.py`                           | Streamlit web app for live churn prediction                                |
-| `customer_churn_ann.h5`              | Trained ANN model (HDF5 format)                                            |
-| `WA_Fn-UseC_-Telco-Customer-Churn`   | Dataset used for EDA and model training (original Telco churn dataset)     |
-| `CCP with ANN.ipynb`                 | Jupyter notebook containing EDA, preprocessing, model training & evaluation |
+| File Name                              | Description                                                                                     |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|
+| `myapp.py`                            | 💻 Main Streamlit application for live customer churn prediction using user input               |
+| `customer_churn_ann.h5`               | 🤖 Trained Artificial Neural Network (ANN) model saved in HDF5 format                           |
+| `WA_Fn-UseC_-Telco-Customer-Churn.xlsx` | 📊 Raw Telco Customer Churn dataset used for exploratory data analysis and model development   |
+| `CCP with ANN.ipynb`                  | 📓 Jupyter notebook with complete EDA, feature engineering, model training, and evaluation      |
+| `data_dictionary.md` *(optional)*     | 🧾 Explanation of each column in the Telco dataset for better understanding                     |
+| `README.md`                           | 🧾 This current file                                                                            |
 
 ---
 
