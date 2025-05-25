@@ -79,7 +79,7 @@ streamlit run myapp.py
 
 ```text
 ✅ Low Risk of Churn
-There’s a 14.62% chance this customer will leave.
+There’s a 85.38% chance this customer will stay.
 Recommendation: No immediate action needed; keep up the great service!
 ```
 
